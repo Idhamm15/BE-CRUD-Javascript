@@ -1,0 +1,5 @@
+npm init -y
+npm i express mysql2 sequelize cors
+npm i -g nodemon 
+
+install extension vs code rest client
